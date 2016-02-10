@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+}
+h1 {
+  margin: .5em .5em 1em .5em
+}
+h2 {
+  margin: 1em 0 1.5em 0;
+}
+
+.bear {
+  height: 8em;
+  margin-left: 2em;
+  margin-bottom: 2em;
+  border: thin solid black;
+}
+
+.bearButtons {
+  border: thin solid black;
+}
+.button {
+  height: 1.5em;
+  width: 1.5em;
+  border: thin solid black;
+  float: left;
+  margin-right: .75em;
+}
+.like {
+  float: left;
+  margin-right: 1em;
+  padding-top: .25em;
+}
+.comment {
+  float: left;
+  margin-right: 1em;
+  padding-top: .25em;
+}
+
+.image {
+  float: left;
+  height: 3em;
+  width: 3em;
+  border: thin solid black;
+  margin: 1em 1em 3em 1em;
+}

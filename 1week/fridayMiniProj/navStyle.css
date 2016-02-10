@@ -1,0 +1,21 @@
+nav {
+  background-color: rgb(201, 120, 124);
+}
+a {
+  margin: .25em;
+  padding-right: .5em;
+  padding-left: .5em;
+  font-family: sans-serif;
+  text-decoration: underline;
+  color: rgb(177, 179, 174)
+}
+ a:hover {
+  background-color: rgb(128, 52, 32)
+}
+
+nav.subMenu {
+  width: 10%;
+  position: relative;
+  top: 0;
+  left: 64.7px;
+}

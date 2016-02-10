@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+}
+p {
+  font-weight: bold;
+  font-size: 10pt;
+  padding: 2em;
+}
+
+h2 {
+  padding: 0;
+  margin: .5em;
+}
+
+.sidebarLeft {
+  float: left;
+  width: 20%;
+  height: 400px;
+  padding-bottom: 10em;
+  margin: 3em 3em 0 0;
+  border: thin solid black;
+}
+
+.main {
+
+}
+
+.sidebarLeft li {
+  list-style-type: none;
+  font-size: 20pt;
+  padding-bottom: 1em;
+
+}
+
+.product {
+  float:left;
+  margin-right: 7.5%;
+  margin-bottom: 7.5%;
+  padding: 2em;
+  border: thin solid black;
+}
